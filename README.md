@@ -4,4 +4,4 @@ if you download this file
 
 Don't forget 
 
-**sudo chmod +x frpc_linux_amd64_v0.2**
+**sudo chmod +x frpc_linux_aarch64_v0.2**
